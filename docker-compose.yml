@@ -1,0 +1,7 @@
+services:
+  cerebrum:
+    build: .
+    ports:
+      - "8888:80"
+    volumes:
+      - ./:/app

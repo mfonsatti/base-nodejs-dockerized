@@ -1,0 +1,13 @@
+{
+   "name": "cerebrum",
+   "version": "1.0.0",
+   "description": "Cerebrum on Node.js",
+   "author": "Matteo Fonsatti <matteo.fonsatti@hudl.com>",
+   "main": "server.js",
+   "scripts": {
+      "start": "node server.js"
+   },
+   "dependencies": {
+      "express": "^4.17.3"
+   }
+}
